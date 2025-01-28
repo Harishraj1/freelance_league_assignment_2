@@ -1,0 +1,12 @@
+.fade-animation {
+    animation: fade 0.5s forwards;
+  }
+  
+  @keyframes fade {
+    0% {
+      opacity: 0.5;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
